@@ -20,7 +20,6 @@ public class Task5 {
 		}
 	}
 
-
 	public static boolean set(Object object, String fieldName, Object fieldValue) {
 		Class<?> cls = object.getClass();
 		while (cls != null) {
@@ -37,5 +36,4 @@ public class Task5 {
 		}
 		return false;
 	}
-
 }
