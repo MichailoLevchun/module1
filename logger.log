@@ -1,0 +1,7 @@
+[10:47:16 INFO] ///////////////////////////////////////////////////////
+[10:47:16 INFO] Input 1 to see which fields have my custom annotatation and annotaion value of this fields
+[10:47:16 INFO] Input 2 to invoke three methods with different parameters
+[10:47:16 INFO] Input 3 to set value into field not knowing its type
+[10:47:16 INFO] Input 4 to invoke myMethod(String a, int ... args) and myMethod(String … args)
+[10:47:16 INFO] Input 5 to see all information about class that recieved unknown type object
+[10:47:16 INFO] Input 6 to exit from program
