@@ -1,9 +1,0 @@
-/.idea/
-/.gradle/
-/build/
-/target/
-/test-output/
-/out
-compass_functional.iml
-logger.*
-out/*
