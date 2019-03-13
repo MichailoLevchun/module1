@@ -22,7 +22,7 @@ public class Task4 {
 	public static void start() {
 
 		try {
-			Class<?> cls = Class.forName("com.epam.lab.module1.Task4");
+			Class<?> cls = Class.forName("module1.Task4");
 			Object obj = cls.newInstance();
 
 			Method method = cls.getDeclaredMethod("method1", String.class);

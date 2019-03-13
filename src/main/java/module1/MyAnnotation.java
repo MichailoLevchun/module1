@@ -8,9 +8,6 @@ import java.lang.annotation.Target;
 @Target(ElementType.FIELD)
 @Retention(RetentionPolicy.RUNTIME)
 public @interface MyAnnotation {
-
-	public int id();
-
-	public String description() default "no description";
-
+	int id();
+	String description() default "no description";
 }
